@@ -2,8 +2,8 @@
 
 Este es nuestro repositorio de sandbox
 
-Ale el lolis
-
-Adri el que quiso aprobar gsi
-
-Juan Manuel
+## Integrantes
+El grupo esta compuesto por:
+   - Alejandro Mena Claro
+   - Adrián Escudero Barra
+   - Juan Manuel Arcos González
